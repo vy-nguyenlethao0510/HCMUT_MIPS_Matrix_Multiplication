@@ -1,0 +1,1 @@
+/usr/bin/c++ -g  -Wl,--enable-auto-import CMakeFiles/matrix.dir/main.cpp.o  -o matrix.exe -Wl,--out-implib,libmatrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
